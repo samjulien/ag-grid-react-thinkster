@@ -5,6 +5,6 @@ The repo is organized in order of the tutorials. Good luck and feel free to [rea
 
 ## Table of Contents
 
-[01 - Getting Started with ag-Grid Community and React](./01-getting-started)
-[02 - Working with Data](./02-data)
+[01 - Getting Started with ag-Grid Community and React](./01-getting-started)<br/>
+[02 - Working with Data](./02-data)<br/>
 
