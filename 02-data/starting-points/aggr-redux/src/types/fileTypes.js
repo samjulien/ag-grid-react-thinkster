@@ -1,0 +1,6 @@
+export const types = {
+  NEW_FILE: "NEW_FILE",
+  DELETE_FILE: "DELETE_FILES",
+  ADD_SIZE: "ADD_SIZE",
+  RANDOMIZE_SIZE: "RANDOMIZE_SIZE"
+};
