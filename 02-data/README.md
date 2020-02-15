@@ -1,7 +1,7 @@
 # 02 - Working with Data
 This tutorial is all about working with data in ag-Grid. I've broken the examples into 3 different sample projects. Each one has a `starting-point` repo and a `finished-code` repo.
 
-- Use the `aggr-data` starting point and finished code for the videos on value getters and basic cell renderers.
+- Use the `aggr-data` starting point and finished code for the videos on value getters, basic cell renderers, and framework component cell renderers.
 - Use the `aggr-infinite` starting point and finished code for the video on the infinite row model.
 - Use the `aggr-redux` starting point and finished code for the videos on setting up and updating ag-Grid with Redux.
 
