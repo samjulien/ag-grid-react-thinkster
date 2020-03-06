@@ -3,7 +3,7 @@ Let's learn all about working with columns in ag-Grid in this tutorial. I've bro
 
 - Use the `aggr-columns` starting point and finished code for the videos on column sizing, header height, tooltips, groups, and moving and pinning columns.
 - Use the `aggr-column-span` starting point and finished code for the video on column spanning.
-- Use the `aggr-column-state` starting point and finished code for the videos on updating columns with state.
+- Use the `aggr-column-state` starting point and finished code for the video on updating columns with state.
 
 ## Helpful Links
 - [ag-Grid Docs: Header Height](https://www.ag-grid.com/javascript-grid-column-header/#example-text-orientation)
