@@ -73,6 +73,20 @@ class App extends Component {
     this.gridApi.sizeColumnsToFit();
   };
 
+  updateRowData = () => {
+    var itemsToUpdate = [];
+    this.gridApi.forEachNode((rowNode) => {
+      var data = rowNode.data;
+      data.amount = this.randomAmount(1, 1000);
+      itemsToUpdate.push(data);
+    });
+    this.gridApi.updateRowData({ update: itemsToUpdate });
+  };
+
+  randomAmount = (min, max) => {
+    return (Math.random() * (max - min) + min).toFixed(2);
+  };
+
   render() {
     return (
       <div

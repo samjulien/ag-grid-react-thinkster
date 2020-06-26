@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.ag-green {
+  background-color: lightgreen !important;
+}
+
+.ag-amber {
+  background-color: coral !important;
+}
+
+.ag-red {
+  background-color: darkred !important;
+  color: white;
+}
