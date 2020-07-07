@@ -8,6 +8,5 @@ This tutorial uses a project called `aggr-styling` for all of the videos. You'll
 - [ag-Grid docs: Row Styles](https://www.ag-grid.com/javascript-grid-row-styles/)
 - [ag-Grid docs: Cell Styles](https://www.ag-grid.com/javascript-grid-cell-styles/)
 - [ag-Grid docs: Grid Width & Height](https://www.ag-grid.com/javascript-grid-width-and-height/)
-- [ag-Grid docs: Sorting with the Grid API](https://www.ag-grid.com/javascript-grid-sorting/#sorting-api)
 - [ag-Grid docs: Grid Icons](https://www.ag-grid.com/javascript-grid-icons/)
 - [ag-Grid docs: Printing](https://www.ag-grid.com/javascript-grid-for-print/)
