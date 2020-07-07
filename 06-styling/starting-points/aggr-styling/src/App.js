@@ -93,6 +93,7 @@ class App extends Component {
         className="ag-theme-balham"
         style={{ height: "450px", width: "100%" }}
       >
+        <button onClick={this.updateRowData}>Update Amounts</button>
         <AgGridReact
           onGridReady={this.onGridReady}
           columnDefs={this.state.columnDefs}
