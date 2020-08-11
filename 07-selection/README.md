@@ -1,5 +1,5 @@
 # 07 - Selection
-This tutorial is all about selection: row selection, checkbox selection, the selection API, range selection, and fill handlers.
+This tutorial is all about selection: row selection, checkbox selection, the selection API, range selection, and fill handles.
 
 This tutorial uses a project called `aggr-selection` for all but the last two videos. You'll find the starting point code in the `starting-points` folder and the finished code in the `finished-code` folder.
 
