@@ -12,4 +12,5 @@ The repo is organized in order of the tutorials. Good luck and feel free to [rea
 [05 - Rows](./05-rows)<br/>
 [06 - Styling](./06-styling)<br/>
 [07 - Selection](./07-selection)<br/>
+[08 - Cell Editing](./08-cell-editing)
 
