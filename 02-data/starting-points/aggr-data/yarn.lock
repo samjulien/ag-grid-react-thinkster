@@ -1655,15 +1655,15 @@ adjust-sourcemap-loader@2.0.0:
     object-path "0.11.4"
     regex-parser "2.2.10"
 
-ag-grid-community@^22.1.0:
-  version "22.1.0"
-  resolved "https://registry.yarnpkg.com/ag-grid-community/-/ag-grid-community-22.1.0.tgz#ba4030f053c1c7194d82c9171a914b24c39f071b"
-  integrity sha512-g9xwUK65C7oHQ5pyyPl8NMz2ZDQvPFBtV1fLPaG1xE3sqoyx87a2Hlm1sfttf22vUDkElLH6yaWQwHID7e/I4A==
+ag-grid-community@~22.1.0:
+  version "22.1.1"
+  resolved "https://registry.yarnpkg.com/ag-grid-community/-/ag-grid-community-22.1.1.tgz#279d0b4a3ab199dc647714add0d2d393a75315cb"
+  integrity sha512-FNyv9e9JIuuR8NNi/r3NjIjUVy2/K5GgPjwQ63g9/Z4U8EudQZLINGMVKI6OwtZfWyyNSd0hQDCNsdvx0OR1WQ==
 
-ag-grid-react@^22.1.0:
-  version "22.1.0"
-  resolved "https://registry.yarnpkg.com/ag-grid-react/-/ag-grid-react-22.1.0.tgz#46d82c463de0568c749284e0b1bba98de3295624"
-  integrity sha512-M4X5r4PwRKamGRn3f543jWewZJIMMqwm7LQeUN2vgtKqKJwXimnWSA6G5OMG0393RuvD6taiIjHITdpdYHHsow==
+ag-grid-react@~22.1.0:
+  version "22.1.1"
+  resolved "https://registry.yarnpkg.com/ag-grid-react/-/ag-grid-react-22.1.1.tgz#59a8ad8e72263e47ccf12718f045dccc425c5f06"
+  integrity sha512-zMz2R3pyo2hEw+GUL0YcsrcMFPxcs7ZjMyhBJpqxfMT/EdwFEGupsrRHKZQjxTaEAgawDhx8Rzt8dNFBLNk3qw==
   dependencies:
     prop-types "^15.6.2"
 
@@ -4320,9 +4320,9 @@ fb-watchman@^2.0.0:
     bser "^2.0.0"
 
 figgy-pudding@^3.5.1:
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.1.tgz#862470112901c727a0e495a80744bd5baa1d6790"
-  integrity sha512-vNKxJHTEKNThjfrdJwHc7brvM6eVevuO5nTj6ez8ZQ1qbXTvGthucRF7S4vf2cr71QVnT70V34v0S1DyQsti0w==
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.2.tgz#b4eee8148abb01dcf1d1ac34367d59e12fa61d6e"
+  integrity sha512-0btnI/H8f2pavGMN8w40mlSKOfTK2SVJmBfBeVIj3kNw0swwgzyRq0d5TJVOwodFmtvpPeWPN/MCcfuWF0Ezbw==
 
 figures@^2.0.0:
   version "2.0.0"
@@ -9813,9 +9813,9 @@ sshpk@^1.7.0:
     tweetnacl "~0.14.0"
 
 ssri@^6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
-  integrity sha512-3Wge10hNcT1Kur4PDFwEieXSCMCJs/7WvSACcrMYrNp+b8kDL1/0wJch5Ni2WrtwEa2IO8OsVfeKIciKCDx/QA==
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.2.tgz#157939134f20464e7301ddba3e90ffa8f7728ac5"
+  integrity sha512-cepbSq/neFK7xB6A50KHN0xHDotYzq58wWCa5LeWqnPrHG8GzfEjO/4O8kpmcGW+oaxkvhEJCWgbgNk4/ZV93Q==
   dependencies:
     figgy-pudding "^3.5.1"
 
