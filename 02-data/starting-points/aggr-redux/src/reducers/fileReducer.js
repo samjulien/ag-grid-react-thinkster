@@ -27,7 +27,7 @@ export default function fileReducer(state = {}, action) {
 
 const newFile = existingFiles => {
   const num = getNextUntitledFileNumber(existingFiles);
-  let lastId = existingFiles[existingFiles.length - 1].id;
+  let lastId = existingFiles[existingFiles.length - 1]?.id || 0;
   return {
     id: lastId + 1,
     file: `untitled${num > 0 ? num : ""}.txt`,
