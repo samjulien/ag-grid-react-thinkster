@@ -1655,6 +1655,11 @@ ag-grid-community@^22.1.1:
   resolved "https://registry.yarnpkg.com/ag-grid-community/-/ag-grid-community-22.1.1.tgz#279d0b4a3ab199dc647714add0d2d393a75315cb"
   integrity sha512-FNyv9e9JIuuR8NNi/r3NjIjUVy2/K5GgPjwQ63g9/Z4U8EudQZLINGMVKI6OwtZfWyyNSd0hQDCNsdvx0OR1WQ==
 
+ag-grid-enterprise@^22.1.1:
+  version "22.1.1"
+  resolved "https://registry.yarnpkg.com/ag-grid-enterprise/-/ag-grid-enterprise-22.1.1.tgz#ed052ac20ba817c9cb187d8bd7e82b0d248a48a8"
+  integrity sha512-TLZi9++lrxlCQY2SI+5b4VXDP2O/P0ssUQSelifA2CvwwGzQcPkPWZQKrIHlCkIHBuBoJ9OiEw7GX3AIuoBUug==
+
 ag-grid-react@^22.1.1:
   version "22.1.1"
   resolved "https://registry.yarnpkg.com/ag-grid-react/-/ag-grid-react-22.1.1.tgz#59a8ad8e72263e47ccf12718f045dccc425c5f06"
@@ -3273,9 +3278,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.1"
